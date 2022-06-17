@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Sedgwick+Ave&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+
+body {margin-top: 25px;}
+
+.container {
+    margin: auto;
+    width: 75%;
+    border: 4px solid rgb(96, 170, 88);
+    padding: 10px;
+}
+
+.img-main{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-family: Sedgwick Ave;
+    background-color: beige;
+}
+h2 {text-align: center;}
+h3 {
+    text-align: center;
+    font-family: Mochiy Pop P One;
+}
+.dis {
+    font-family: Source Sans Pro;
+    text-align: center;
+}
+
+.p-name {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
